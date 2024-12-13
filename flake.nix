@@ -47,6 +47,7 @@
         asus-zephyrus-ga402x-nvidia = import ./asus/zephyrus/ga402x/nvidia;
         asus-zephyrus-ga502 = import ./asus/zephyrus/ga502;
         asus-zephyrus-ga503 = import ./asus/zephyrus/ga503;
+        asus-zephyrus-ga605 = import ./asus/zephyrus/ga605;
         asus-zephyrus-gu603h = import ./asus/zephyrus/gu603h;
         asus-zephyrus-gu605my = import ./asus/zephyrus/gu605my;
         beagleboard-pocketbeagle = import ./beagleboard/pocketbeagle;
