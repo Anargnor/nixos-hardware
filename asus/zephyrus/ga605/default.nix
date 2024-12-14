@@ -20,10 +20,5 @@
 
   services = {
     asusd.enable = lib.mkDefault true;
-
-    udev.extraHwdb = ''
-      evdev:name:*:dmi:bvn*:bvr*:bd*:svnASUS*:pn*:*
-       KEYBOARD_KEY_ff31007c=f20    # fixes mic mute button
-    '';
   };
 }
